@@ -9,7 +9,7 @@ namespace HealthCenter_API.Controllers
     [ApiController]
     public class UsersApi : ControllerBase
     {
-
+        // This For Register
 
         [HttpPost(Name = "AddUser")]
         public bool AddnewUserFromRegister(UserDTOForRegister newUserDTOForRegister)
@@ -66,11 +66,6 @@ namespace HealthCenter_API.Controllers
             return Ok(UDTO);
         }
 
-        [HttpGet(Name ="Test")]
-        public string Test()
-        {
-            return "Test";
-        }
 
     }
 }

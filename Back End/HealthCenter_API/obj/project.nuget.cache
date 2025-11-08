@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6+FFfZEtmLGeY6L3fUutoIkjN5mHxa/nqmtrWUgj5G/YYKzKdmmb4gPMz2EG+3ddvoFCaK4zRsfk5uUgtzpDQ==",
+  "dgSpecHash": "uoBGghcXxzYtRu8WmlAZMrjT0JdiQ6erCWVMPx4rE4Kjs3pB9VjUu4ePjeNbFopL1QWnPPlbOYFtMgN8Amoz0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\Health_Center\\Back End\\HealthCenter_API\\HealthCenter_API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\HealthCenter_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

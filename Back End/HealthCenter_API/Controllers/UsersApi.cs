@@ -66,7 +66,11 @@ namespace HealthCenter_API.Controllers
             return Ok(UDTO);
         }
 
-        
+        [HttpGet(Name ="Test")]
+        public string Test()
+        {
+            return "Test";
+        }
 
     }
 }

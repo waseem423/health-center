@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\Health_Center\\Back End\\HealthCenter_API\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3B403A4-8456-4788-92E6-A1BAA250B115}|HealthCenter_API.csproj|c:\\users\\admin\\source\\health_center\\back end\\healthcenter_api\\controllers\\usersapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B403A4-8456-4788-92E6-A1BAA250B115}|HealthCenter_API.csproj|c:\\users\\admin\\source\\health-center\\back end\\healthcenter_api\\controllers\\usersapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B403A4-8456-4788-92E6-A1BAA250B115}|HealthCenter_API.csproj|solutionrelative:controllers\\usersapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,9 +27,9 @@
               "DocumentIndex": 1,
               "Title": "clsUsersDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\..\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
-              "RelativeToolTip": "..\\..\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T13:54:36.528Z"
@@ -39,9 +39,9 @@
               "DocumentIndex": 2,
               "Title": "clsUsersBussiness.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
-              "RelativeDocumentMoniker": "..\\..\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
-              "RelativeToolTip": "..\\..\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
+              "RelativeToolTip": "..\\..\\..\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T15:51:46.172Z"
@@ -50,11 +50,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsersApi.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\Health_Center\\Back End\\HealthCenter_API\\Controllers\\UsersApi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\Controllers\\UsersApi.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersApi.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\Health_Center\\Back End\\HealthCenter_API\\Controllers\\UsersApi.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\Controllers\\UsersApi.cs",
               "RelativeToolTip": "Controllers\\UsersApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAIAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T13:01:33.061Z",
               "EditorCaption": ""

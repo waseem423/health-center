@@ -7,10 +7,20 @@
       "RelativeMoniker": "D:0:0:{A3B403A4-8456-4788-92E6-A1BAA250B115}|HealthCenter_API.csproj|solutionrelative:controllers\\usersapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F151B50-C10D-4B2F-ADAF-BFB9145EF0F7}|..\\HealthCenterBussinessLayer\\HealthCenterBussinessLayer.csproj|c:\\users\\admin\\source\\health-center\\back end\\healthcenterbussinesslayer\\clspeoplebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F151B50-C10D-4B2F-ADAF-BFB9145EF0F7}|..\\HealthCenterBussinessLayer\\HealthCenterBussinessLayer.csproj|c:\\users\\admin\\source\\health-center\\back end\\healthcenterbussinesslayer\\clsusersbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087BB289-CAE2-4691-B9CD-5E7AEA32527B}|..\\HealthCenterDataAccess\\HealthCenterDataAccess.csproj|c:\\users\\admin\\source\\health-center\\back end\\healthcenterdataaccess\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087BB289-CAE2-4691-B9CD-5E7AEA32527B}|..\\HealthCenterDataAccess\\HealthCenterDataAccess.csproj|c:\\users\\admin\\source\\health-center\\back end\\healthcenterdataaccess\\clspeopledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B403A4-8456-4788-92E6-A1BAA250B115}|HealthCenter_API.csproj|c:\\users\\admin\\source\\health-center\\back end\\healthcenter_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B403A4-8456-4788-92E6-A1BAA250B115}|HealthCenter_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,31 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsUsersDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
-              "RelativeToolTip": "..\\..\\..\\Health_Center\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T13:54:36.528Z"
+              "WhenOpened": "2025-11-09T09:25:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPeopleDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterDataAccess\\clsPeopleDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\HealthCenterDataAccess\\clsPeopleDataAccess.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterDataAccess\\clsPeopleDataAccess.cs",
+              "RelativeToolTip": "..\\HealthCenterDataAccess\\clsPeopleDataAccess.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:27:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUsersDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
+              "RelativeToolTip": "..\\HealthCenterDataAccess\\clsUsersDataAccess.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:27:41.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "clsUsersBussiness.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
-              "RelativeToolTip": "..\\..\\..\\Health_Center\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAgAAAA",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
+              "RelativeDocumentMoniker": "..\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
+              "RelativeToolTip": "..\\HealthCenterBussinessLayer\\clsUsersBussiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:51:46.172Z"
+              "WhenOpened": "2025-11-09T08:27:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPeopleBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterBussinessLayer\\clsPeopleBussiness.cs",
+              "RelativeDocumentMoniker": "..\\HealthCenterBussinessLayer\\clsPeopleBussiness.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterBussinessLayer\\clsPeopleBussiness.cs",
+              "RelativeToolTip": "..\\HealthCenterBussinessLayer\\clsPeopleBussiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:27:36.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -54,7 +109,7 @@
               "RelativeDocumentMoniker": "Controllers\\UsersApi.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenter_API\\Controllers\\UsersApi.cs",
               "RelativeToolTip": "Controllers\\UsersApi.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEQAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T13:01:33.061Z",
               "EditorCaption": ""

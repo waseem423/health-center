@@ -24,3 +24,16 @@ C:\Users\Admin\source\Health_Center\Back End\HealthCenterDataAccess\obj\Debug\ne
 C:\Users\Admin\source\Health_Center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\refint\HealthCenterDataAccess.dll
 C:\Users\Admin\source\Health_Center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.pdb
 C:\Users\Admin\source\Health_Center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\ref\HealthCenterDataAccess.dll
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\bin\Debug\net8.0\HealthCenterDataAccess.deps.json
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\bin\Debug\net8.0\HealthCenterDataAccess.dll
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\bin\Debug\net8.0\HealthCenterDataAccess.pdb
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.AssemblyInfo.cs
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.sourcelink.json
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.dll
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\refint\HealthCenterDataAccess.dll
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\HealthCenterDataAccess.pdb
+C:\Users\Admin\source\health-center\Back End\HealthCenterDataAccess\obj\Debug\net8.0\ref\HealthCenterDataAccess.dll

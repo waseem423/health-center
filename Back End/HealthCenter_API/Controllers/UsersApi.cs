@@ -43,30 +43,29 @@ namespace HealthCenter_API.Controllers
 
 
         // this for Login
-        [HttpGet("{Username}/{Password}", Name = "GetUserByUsernameandpassword")]
+        [HttpPost("Login", Name = "GetUserByUsernameandpassword")]
 
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public ActionResult<UserDTO> GetUserByUsernameandPassword(string Username,string Password)
+        public ActionResult<UserDTO> GetUserByUsernameandPassword(UserDTOForLogin userDTOForLogin)
         {
-            if (string.IsNullOrEmpty(Username)|| string.IsNullOrEmpty(Password))
+            if (string.IsNullOrEmpty(userDTOForLogin.Username) || string.IsNullOrEmpty(userDTOForLogin.Password))
             {
                 return BadRequest($"Not accepted empty Username,Password");
 
             }
 
-            var User = clsUsersBussiness.Find(Username,Password);
+            var User = clsUsersBussiness.Find(userDTOForLogin.Username, userDTOForLogin. Password);
 
             if (User == null)
-                return NotFound($"User with Username {Username} and Password {Password} Is Not Found.");
+                return NotFound($"User with Username {userDTOForLogin.Username} and Password {userDTOForLogin.Password} Is Not Found.");
 
             UserDTO UDTO = User.UDTO;
 
             return Ok(UDTO);
         }
 
-        
-
     }
+     
 }

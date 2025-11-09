@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R0qa5zcAKhqpQ+JMT0Q3yLcwaPA61heq9eoAV5xdAaaUhVBHxjJnPcxgFixynz6n4ZxPCeQHo2jJYmPRuduG4A==",
+  "dgSpecHash": "RXYWY1lDRC28dCcd6LVHFmPqRDsC375oEKcRoCclgMZROkqm4fkP3XMPVQwH3OkUVyHBxgaObu8FQTXzxaOoHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\Health_Center\\Back End\\HealthCenterBussinessLayer\\HealthCenterBussinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\health-center\\Back End\\HealthCenterBussinessLayer\\HealthCenterBussinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

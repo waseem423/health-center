@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthCenterDataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2f42d62b59809e198131ad4286c45440939955")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+664390fd69ddf55a05a9f53d7934ccccc9888756")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthCenterDataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthCenterDataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

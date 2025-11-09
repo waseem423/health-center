@@ -66,6 +66,12 @@ namespace HealthCenter_API.Controllers
             return Ok(UDTO);
         }
 
+
+        [HttpGet ("ReturnName",Name ="returnname")]
+        public string Returnname()
+        {
+            return "Waseem";
+        }
     }
      
 }
